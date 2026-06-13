@@ -1,16 +1,80 @@
-## Hi there 👋
+# Kelwin Felipe
 
-<!--
-**KelwinFelipe/KelwinFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer specializing in web applications, APIs, business systems, and custom software solutions.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Astro Lúdico
+
+A platform focused on astrology and self-discovery, built with performance, user experience, and scalability in mind.
+
+**Website:** https://astroludico.com
+
+### KN E Marketing
+
+Development of professional websites and digital solutions for businesses.
+
+**Website:** https://knemarketing.com.br
+
+## Technologies
+
+### Languages
+
+* TypeScript
+* JavaScript
+* Python
+* Go (Golang)
+* Java
+* C
+* C#
+
+### Front-end
+
+* React
+* Next.js
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Back-end
+
+* Node.js
+* Express
+
+### Databases
+
+* PostgreSQL
+* MySQL
+
+### Tools
+
+* Docker
+* Git
+* Linux
+
+### Game Development
+
+* Unity
+
+## Areas of Expertise
+
+* Full Stack Development
+* REST API Development
+* Web Applications
+* Process Automation
+* System Integration
+* Software Architecture
+* Performance Optimization
+
+## Portfolio
+
+* https://astroludico.com
+* https://knemarketing.com.br
+
+## Contact
+
+**Email:** [kelwinfelipepereira@gmail.com](mailto:kelwinfelipepereira@gmail.com)
+
+**GitHub:** https://github.com/KelwinFelipe
+
+**Website:** https://astroludico.com
