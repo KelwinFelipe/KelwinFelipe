@@ -66,11 +66,6 @@ Development of professional websites and digital solutions for businesses.
 * Software Architecture
 * Performance Optimization
 
-## Portfolio
-
-* https://astroludico.com
-* https://knemarketing.com.br
-
 ## Contact
 
 **Email:** [kelwinfelipepereira@gmail.com](mailto:kelwinfelipepereira@gmail.com)
