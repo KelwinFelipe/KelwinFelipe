@@ -69,7 +69,3 @@ Development of professional websites and digital solutions for businesses.
 ## Contact
 
 **Email:** [kelwinfelipepereira@gmail.com](mailto:kelwinfelipepereira@gmail.com)
-
-**GitHub:** https://github.com/KelwinFelipe
-
-**Website:** https://astroludico.com
